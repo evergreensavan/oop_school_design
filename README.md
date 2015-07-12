@@ -1,3 +1,3 @@
 # oop_school_design
 
-This project aims to illustrate object oriented concepts.
+This project aims to illustrate basic object oriented concepts in JAVA.
